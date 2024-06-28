@@ -2,8 +2,6 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning python fundamentals and sql 
 - 💞️ I’m looking to collaborate on any python programming or systems development related project
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I make a mean turmeric coffee!
 
 <!---
