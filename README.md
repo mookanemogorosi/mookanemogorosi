@@ -1,6 +1,6 @@
 - 👋 Hello world, I’m @mookanemogorosi
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Python fundamentals and sql 
+- 👀 I’m interested in cybersecurity engineering 
+- 🌱 I’m currently learning Python fundamentals and SQL
 - 💞️ I’m looking to collaborate on any Python programming or systems development related project
 - ⚡ Fun fact: I make a mean turmeric coffee!
 
